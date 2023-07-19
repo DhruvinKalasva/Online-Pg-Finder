@@ -1,0 +1,63 @@
+.singlepgbody {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pgheading {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .small {
+    color: #777;
+    font-size: 14px;
+  }
+  
+  div b {
+    color: #555;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .pginfo {
+    margin-top: 10px;
+  }
+  
+  .pgimages {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .hotelImgWrapper {
+    width: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .hotelImg {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .nav {
+    background-color: #2D333F;
+}
+
+.nav a {
+    color: white;
+}
+
+.nav button {
+    background-color: white;
+    color: black;
+}
+
+.singlepgbody {
+    margin: 20px;
+    margin-top: 80px;
+} 

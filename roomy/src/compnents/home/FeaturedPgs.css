@@ -1,0 +1,48 @@
+.fheading {
+    margin: 40px;
+    margin-top: 70px;
+}
+
+.featuredpgcards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.fcard {
+    margin: 20px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    color:black;
+    box-shadow: 0px 3px 7.5px rgba(0,0,0,0.3);
+}
+
+.fcard:hover {
+    /* background-color: aqua; */
+    box-shadow: 0px 20px 20.5px rgba(0,0,0,0.3);
+}
+
+.fcard a {
+    text-decoration: none;
+    color: black;
+}
+
+.fcard img {
+    width:300px;
+    height:220px;
+    border-radius :10px 10px  0 0 ;
+}
+
+
+.fcard h3,p {
+    margin: 10px;
+}
+
+.price {
+    padding-bottom: 20px;
+}
+
+.area {
+    color: gray;
+}
